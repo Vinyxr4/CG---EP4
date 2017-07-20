@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/BP_interp_sd.frag</file>
+        <file>shaders/BP_interp_sd.vert</file>
+    </qresource>
+</RCC>
